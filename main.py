@@ -3,7 +3,7 @@
 import grades
 
 # Student Identity Configuration
-LAST_NAME = "Antonio" 
+LAST_NAME = "ANTONIO"
 STUDENT_ID = "TUPM-26-1833"
 
 SEED_DIGIT = int(STUDENT_ID[-1])
